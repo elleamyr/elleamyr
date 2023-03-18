@@ -1,16 +1,16 @@
-### Hi there 👋
+### <h1>Hi there! 👋</h1>
+<h3>I'm Elle, a Web Developer, Graphic Designer and a Software Engineering student from Kuala Lumpur.</h3>
 
-<!--
-**elleamyr/elleamyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbzhYcAjPbzbVdhzeYn1F5CNGChsAmsp529Xvo1lsR_3xMXo8S4FeOQxnqR8jYUkdl96gGNfERYIiVXiA5RxTnyCQh5eOZk44l18JXlE1MLCIDQ1b0U1XKMSDRaliNa6HBQk7dvjKTsNzOUTfccTIxLsd2KIvXGqVEdvI6fq4ADYTBpx9y0E-6NxWlIQ/s16000/Software%20Solutions%20(3).png)
 
-Here are some ideas to get you started:
+I'm currently studying at the University of Technology Malaysia, and I'm passionate about all things tech! I'm a self-taught HTML and CSS coder with experience in designing responsive and user-friendly websites. I've also worked as a Quality Analyst at ByteDance, where I was responsible for ensuring the quality and safety of TikTok Livestream Videos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to my technical skills, I'm also skilled in digital marketing, with hands-on experience in campaigns and strategies. I'm always looking for ways to expand my knowledge and stay up-to-date with the latest technologies and trends.
+
+On my GitHub profile, you'll find some of my personal projects and contributions to open-source projects. Feel free to check them out and connect with me! I'm always open to new opportunities and collaborations.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elleamyr)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: HTML / CSS
+
+
