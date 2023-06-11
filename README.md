@@ -9,6 +9,7 @@ In addition to my technical skills, I'm also skilled in digital marketing, with 
 
 On my GitHub profile, you'll find some of my personal projects and contributions to open-source projects. Feel free to check them out and connect with me! I'm always open to new opportunities and collaborations.
 
+
 [![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=elleamyr)](https://github.com/elleamyr/github-readme-stats)
 
 Skills: HTML / CSS
