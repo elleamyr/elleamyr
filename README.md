@@ -12,6 +12,6 @@ On my GitHub profile, you'll find some of my personal projects and contributions
 
 [![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=elleamyr)](https://github.com/elleamyr/github-readme-stats)
 
-Skills: HTML / CSS / Javascript / PHP / MYSQL
+Skills: Python / HTML / CSS / Javascript / PHP / MYSQL
 
 
