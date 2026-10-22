@@ -30,7 +30,7 @@
 
 <img src="assets/tech-stack.svg" width="100%" alt="AI & development: Python, JavaScript, SQL, APIs, JSON, webhooks, LLMs, prompt engineering, AI integrations and conversational AI. Delivery: Jira, Confluence, Asana, Notion, Lark, Meegle, Monday.com, Agile and SOPs. Data & quality: Excel, Google Sheets, dashboards, sampling, scorecards, rater calibration, root-cause analysis and Lean Six Sigma." />
 
-Training: Agile Project Management Foundation · Project Management Foundations · Lean Six Sigma Yellow Belt · Advanced Prompt Engineering Techniques · Microsoft AI For All.
+<img src="assets/professional-development.svg" width="100%" alt="Professional development: Agile Project Management Foundation; Project Management Foundations; Advanced Prompt Engineering Techniques; Microsoft AI For All; Lean Six Sigma Yellow Belt." />
 
 ## Projects
 
