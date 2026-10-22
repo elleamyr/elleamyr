@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/profile-hero.svg" width="100%" alt="El Insyiraah — AI project delivery, prompt engineering and evaluation" /></p>
 
-<img src="assets/profile-overview.svg?v=navy2" width="100%" alt="El Insyiraah Fathin Amiruddin: AI Enablement Manager / CX Project Manager at WIZ.AI. Talkbot design from scratch through prompt engineering. 7+ years across AI projects, evaluation and quality operations. 1,000+ evaluations weekly; 50% fewer critical errors at ByteDance over three months; 20% lower greeting-stage drop-off at WIZ.AI." />
+<img src="https://github.com/elleamyr/elleamyr/raw/bae6a4a749ce782c515568e101c1f43e66c487a0/assets/profile-overview.svg" width="100%" alt="El Insyiraah Fathin Amiruddin: AI Enablement Manager / CX Project Manager at WIZ.AI. Talkbot design from scratch through prompt engineering. 7+ years across AI projects, evaluation and quality operations. 1,000+ evaluations weekly; 50% fewer critical errors at ByteDance over three months; 20% lower greeting-stage drop-off at WIZ.AI." />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="assets/profile-career.svg?v=navy2" width="100%" alt="Experience: WIZ.AI, AI Enablement Manager / CX Project Manager, Oct 2025–Present; ByteDance, Quality Analyst in AIGC Search Ops, Jan 2020–Mar 2025, managing 1,000+ evaluations weekly; EDs Resources, freelance AI Chatbot Developer and Project Lead, Aug 2019–Aug 2024; Grab, Customer Experience Agent, Aug 2018–Apr 2019. Education: MBAi at UNIRAZAK, starting November 2026; Diploma in Artificial Intelligence, UniAthena, 2024–2025." />
+<img src="https://github.com/elleamyr/elleamyr/raw/bae6a4a749ce782c515568e101c1f43e66c487a0/assets/profile-career.svg" width="100%" alt="Experience: WIZ.AI, AI Enablement Manager / CX Project Manager, Oct 2025–Present; ByteDance, Quality Analyst in AIGC Search Ops, Jan 2020–Mar 2025, managing 1,000+ evaluations weekly; EDs Resources, freelance AI Chatbot Developer and Project Lead, Aug 2019–Aug 2024; Grab, Customer Experience Agent, Aug 2018–Apr 2019. Education: MBAi at UNIRAZAK, starting November 2026; Diploma in Artificial Intelligence, UniAthena, 2024–2025." />
 
 <br>
 
