@@ -1,67 +1,54 @@
-<div align="center">
+<p align="center"><img src="assets/profile-hero.svg" width="100%" alt="El Insyiraah — From AI ambition to real-world delivery. AI Enablement Manager / CX Project Manager at WIZ.AI." /></p>
 
-# El Insyiraah Fathin Amiruddin
+<p align="center"><a href="#about">About</a> &nbsp; / &nbsp; <a href="#expertise">Expertise</a> &nbsp; / &nbsp; <a href="#journey">Journey</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/elinsyiraah/">Let’s connect ↗</a></p>
 
-### AI Project Delivery · Conversational AI · Model Evaluation
+<br>
 
-Turning business goals into AI experiences that work in production.
+<table width="100%"><tr><td width="33%" align="center"><h2>50%</h2><strong>fewer critical errors</strong><br><sub>Quality improvement · ByteDance</sub></td><td width="33%" align="center"><h2>100+</h2><strong>evaluation tasks / week</strong><br><sub>Across SG, Beijing &amp; US stakeholders</sub></td><td width="33%" align="center"><h2>20%</h2><strong>lower greeting drop-off</strong><br><sub>Post-launch optimisation · WIZ.AI</sub></td></tr></table>
 
-**Kuala Lumpur, Malaysia** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/elinsyiraah/)
+<br>
 
-</div>
+<h2 id="about">01 &nbsp; A little about me</h2>
 
----
+I’m **Elle**, an AI delivery professional with **7+ years across AI projects, evaluation and quality operations**. I turn business goals into clear delivery plans, bring teams together, and stay close to the details that make AI useful in production.
 
-I’m Elle, an AI delivery professional with 7+ years of experience across AI projects, evaluation and quality operations. I connect business stakeholders, product teams and engineers to take AI solutions from discovery through UAT, launch and continuous improvement.
+At **WIZ.AI**, I lead enterprise voice bot, chatbot and agent-assist deployments as an **AI Enablement Manager / CX Project Manager**. My work spans discovery, conversation design, UAT, go-live and continuous improvement.
 
-Currently at **WIZ.AI** as an **AI Enablement Manager / CX Project Manager**, delivering enterprise voice bots, chatbots and agent-assist solutions across banking, fintech, telco and e-commerce.
+<br>
 
-Previously at **ByteDance**, I worked across AIGC search evaluation and Trust & Safety quality operations, building the guidelines, calibration practices and feedback loops that help teams improve AI quality.
+<h2 id="expertise">02 &nbsp; What I bring to the table</h2>
 
-## Where I contribute
+<table><tr><td width="33%" valign="top"><h3>↗ &nbsp; AI delivery</h3><p>From the first workshop to a confident launch.</p><sub>Scoping · Stakeholder alignment · Risk management · UAT · Handover</sub></td><td width="33%" valign="top"><h3>◎ &nbsp; Evaluation</h3><p>Better feedback loops. More consistent quality.</p><sub>Scorecards · Sampling · Rater calibration · Error analysis · QA coaching</sub></td><td width="33%" valign="top"><h3>✳ &nbsp; Conversational AI</h3><p>Thoughtful conversations, grounded in real use.</p><sub>Prompts · Intents · Knowledge bases · APIs · Post-launch tuning</sub></td></tr></table>
 
-| AI delivery | Evaluation & quality | Conversational AI |
-| :--- | :--- | :--- |
-| Requirements, scope and milestones | Sampling plans and scorecards | Prompt engineering and intent design |
-| Stakeholder alignment and risk management | Rater calibration and error analysis | Conversation flows and knowledge bases |
-| UAT, go-live and operational handover | Evaluation cycles and quality improvement | API integrations and post-launch tuning |
+<br>
 
-## Selected impact
+<h2 id="journey">03 &nbsp; The journey so far</h2>
 
-- **50% fewer critical errors** through quality improvement plans, dashboards and root-cause analysis over three months at ByteDance.
-- **100+ evaluation tasks per week** coordinated across stakeholders in Singapore, Beijing and the US.
-- **20% lower greeting-stage drop-off** through post-launch analysis and conversational AI improvements at WIZ.AI.
+| | Role & focus |
+| :--- | :--- |
+| **2025 — Present** | **WIZ.AI · AI Enablement Manager / CX Project Manager**<br>Enterprise AI delivery for banking, fintech, telco and e-commerce. |
+| **2020 — 2025** | **ByteDance · Quality Analyst, AIGC Search Ops**<br>AI evaluation, Trust & Safety quality, calibration and team development. |
+| **2019 — 2024** | **EDs Resources · Freelance AI Chatbot Developer & Project Lead**<br>Client chatbot and automation projects, from discovery through launch. |
 
-## Experience
+<br>
 
-**WIZ.AI** · AI Enablement Manager / CX Project Manager  
-Oct 2025 – Present  
-Lead concurrent enterprise AI deployments, translate business KPIs into acceptance criteria, and coordinate client, product and engineering teams through delivery.
+**MY TOOLKIT**
 
-**ByteDance** · Quality Analyst, AIGC Search Ops  
-Jan 2020 – Mar 2025  
-Worked across evaluation, sampling quality and content moderation. Led calibration, quality improvement and evaluator onboarding initiatives.
+<code>Python</code> <code>JavaScript</code> <code>SQL</code> <code>OpenAI API</code> <code>REST APIs</code> <code>Webhooks</code><br>
+<code>Jira</code> <code>Confluence</code> <code>Notion</code> <code>Lark</code> <code>Meegle</code> <code>Excel / Sheets</code>
 
-**EDs Resources** · Freelance AI Chatbot Developer & Project Lead  
-Aug 2019 – Aug 2024  
-Delivered chatbot and automation projects from discovery to launch, including conversation design, escalation paths and API/webhook integrations.
+<br>
 
-## Tools I work with
+<details><summary><strong>Education & continued learning ↗</strong></summary>
 
-**AI & development** &nbsp; Python · JavaScript · SQL · OpenAI API · REST APIs · JSON · Webhooks  
-**Delivery & collaboration** &nbsp; Jira · Confluence · Asana · Notion · Lark · Meegle  
-**Data & improvement** &nbsp; Excel · Google Sheets · KPI dashboards · Root-cause analysis · Lean Six Sigma
-
-<details>
-<summary><strong>Education & continued learning</strong></summary>
-
-- **Bachelor of Computer Science (Software Engineering)** — Universiti Teknologi Malaysia, 2023 – Present
-- **Diploma in Artificial Intelligence** — UniAthena, 2024 – 2025
-- Additional training in Agile project management, project management foundations, Lean Six Sigma and advanced prompt engineering.
+- Bachelor of Computer Science (Software Engineering) · Universiti Teknologi Malaysia · 2023–Present
+- Diploma in Artificial Intelligence · UniAthena · 2024–2025
+- Training in Agile project management, Lean Six Sigma and advanced prompt engineering.
 
 </details>
 
+<br>
+
 ---
 
-**Let’s connect**  
-Interested in AI delivery, evaluation and conversational AI opportunities, including remote, full-time contract roles. [Find me on LinkedIn →](https://www.linkedin.com/in/elinsyiraah/)
+<div align="center"><h2>Let’s build AI that works for people.</h2><p>AI delivery · Evaluation · Conversational experiences</p><p><strong>Open to remote, full-time contract opportunities.</strong></p><p><a href="https://www.linkedin.com/in/elinsyiraah/"><strong>Start a conversation on LinkedIn ↗</strong></a></p><sub>Based in Kuala Lumpur, Malaysia</sub></div>
