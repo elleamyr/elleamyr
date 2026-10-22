@@ -12,14 +12,6 @@
 
 ## About Me
 
-**AI Project Manager | AICX & Conversational AI | AI/LLM Operations**
-
-I’m El Insyiraah Fathin Amiruddin, an AI Project Manager specializing in AI Customer Experience (AICX). I bridge business needs, technical execution and AI innovation—and enjoy working at the intersection of AI, technology, people and business.
-
-At WIZ.AI, I manage end-to-end enterprise AI projects for multinational clients across banking, fintech and e-commerce, including Shopee, Lazada, RytBank, Atome and TikTok. My current role is **AI Enablement Manager / CX Project Manager**. I combine project planning, stakeholder management and cross-functional collaboration with hands-on coding, AI implementation and evaluation.
-
-My background spans 7+ years across AI projects, evaluation and quality operations. Previously at ByteDance, I led quality assurance for the first batch of AI Specialists (annotators), overseeing AI evaluation quality, annotation operations and team performance. My long-term direction is broader AI management and leadership, while staying technically hands-on.
-
 <img src="assets/profile-overview.svg" width="100%" alt="Project leadership, technical execution and AI/LLM operations. Selected outcomes: 1,000+ evaluations weekly; 50% fewer critical errors at ByteDance over three months; 20% lower greeting-stage drop-off at WIZ.AI." />
 
 <br>
